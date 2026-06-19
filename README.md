@@ -15,14 +15,6 @@ A Computer Science student passionate about Software Engineering, AI application
 
 ---
 
-## 💻 Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,mysql,vscode" />
-</p>
-
----
-
 ## 🏆 Highlights
 
 - 🥇 Hackathon Winner
@@ -41,13 +33,6 @@ A Computer Science student passionate about Software Engineering, AI application
 
 ---
 
-## 📊 GitHub Stats
-
-![Udaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
 
 ## 🌱 Currently Learning
 
