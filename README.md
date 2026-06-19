@@ -1,5 +1,70 @@
 # 💫 About Me:
- Hi, I'm Udaya 👋<br><br>🎓 Computer Science Undergraduate<br><br>💻 Tech Stack:<br>- Java<br>- Python<br>- Git & GitHub<br>- HTML, CSS, JavaScript<br><br>📚 Currently Learning:<br>- Data Structures & Algorithms<br>- System Design Basics<br>- Full-Stack Development<br><br>🏆 Achievements:<br>- Hackathon Winner<br>- Cisco Certified in Python<br>- Cisco Certified in Networking Fundamentals<br><br>📫 Reach me: udayakandula06@gmail.com
+# Hey, I'm Udaya 👨‍💻
+
+A Computer Science student passionate about Software Engineering, AI applications, and continuous learning.
+
+---
+
+## 🔭 Currently
+
+- Solving Data Structures & Algorithms problems in Java
+- Building real-world software projects
+- Learning Full-Stack Development
+- Exploring Open Source Contributions
+- Improving Competitive Programming skills
+
+---
+
+## 💻 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,mysql,vscode" />
+</p>
+
+---
+
+## 🏆 Highlights
+
+- 🥇 Hackathon Winner
+- 📜 Cisco Certified in Python
+- 🌐 Cisco Certified in Networking Fundamentals
+- 💻 Actively solving coding challenges and building projects
+
+---
+
+## 📈 GitHub Goals
+
+- ⭐ Reach 3-Star on CodeChef
+- 🚀 Contribute to Open Source Projects
+- 🏗️ Build impactful software projects
+- 💼 Secure a Software Engineering role
+
+---
+
+## 📊 GitHub Stats
+
+![Udaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- System Design Fundamentals
+- Full-Stack Development
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: udayakandula06@gmail.com
+
+---
+
+> ⚡ Fun Fact: Every bug teaches me something new, and every solution makes me a better developer.
 
 
 ## 🌐 Socials:
